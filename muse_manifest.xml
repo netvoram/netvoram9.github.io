@@ -1,0 +1,91 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="netvoram9.github.io" resolutions="1x" timestamp="1539633206177">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="99965865" ref="index"/>
+    <file name="9class.css" crc="291723751" ref="9class"/>
+    <file name="voramnet1.css" crc="117207718" ref="voramnet1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:9class:voramnet1"/>
+    <file name="museutils.js" crc="3803043152" ref="index:9class:voramnet1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:9class:voramnet1"/>
+    <file name="museconfig.js" crc="380897831" ref="index:9class:voramnet1"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:9class:voramnet1"/>
+    <file name="require.js" crc="4157109226" ref="index:9class:voramnet1"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="9class"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="9class:voramnet1"/>
+    <file name="html5shiv.js" crc="4241844378" ref="9class:voramnet1"/>
+  </folder>
+  <folder name="images">
+    <file name="voramnet-favicon.ico" crc="31782159" ref="index"/>
+    <file name="градиент — копия.png" crc="171421195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="градиент.png" crc="118710855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6783-4.png" crc="89963286" ref="9class"/>
+    <file name="вставленное изображение 535x700.jpg" crc="239207784" seo="true" ref="9class">
+      <caption webpage="9class" alt=""/>
+    </file>
+    <file name="u6778-6.png" crc="220155263" ref="9class"/>
+    <file name="u6791-4.png" crc="4204938402" ref="9class"/>
+    <file name="u6785-13.png" crc="450770478" ref="9class"/>
+    <file name="001-home.png" crc="3920041696" seo="true" ref="9class">
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="9class"/>
+    <file name="u6829.png" crc="464650634" ref="9class"/>
+    <file name="u6829-a.png" crc="464650634" ref="9class"/>
+    <file name="005-open-book.png" crc="3818926562" seo="true" ref="9class">
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+    </file>
+    <file name="u6821.png" crc="51926602" ref="9class"/>
+    <file name="u6821-a.png" crc="51926602" ref="9class"/>
+    <file name="004-play-button.png" crc="4037656149" seo="true" ref="9class">
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+    </file>
+    <file name="u6835.png" crc="3931636458" ref="9class"/>
+    <file name="u6835-a.png" crc="3931636458" ref="9class"/>
+    <file name="002-picture.png" crc="423889212" seo="true" ref="9class">
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+    </file>
+    <file name="u6803.png" crc="128033098" ref="9class"/>
+    <file name="u6803-a.png" crc="128033098" ref="9class"/>
+    <file name="003-apps.png" crc="3931548600" seo="true" ref="9class">
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+    </file>
+    <file name="u6808.png" crc="513275520" ref="9class"/>
+    <file name="u6808-a.png" crc="513275520" ref="9class"/>
+    <file name="безымянный-155555555555555555555555555.jpg" crc="4145385738" seo="true" ref="9class">
+      <caption webpage="9class" alt=""/>
+    </file>
+    <file name="u6870.png" crc="464650634" ref="9class"/>
+    <file name="u6870-a.png" crc="464650634" ref="9class"/>
+    <file name="u6864.png" crc="51926602" ref="9class"/>
+    <file name="u6864-a.png" crc="51926602" ref="9class"/>
+    <file name="u6880.png" crc="3931636458" ref="9class"/>
+    <file name="u6880-a.png" crc="3931636458" ref="9class"/>
+    <file name="u6846.png" crc="128033098" ref="9class"/>
+    <file name="u6846-a.png" crc="128033098" ref="9class"/>
+    <file name="u6855.png" crc="513275520" ref="9class"/>
+    <file name="u6855-a.png" crc="513275520" ref="9class"/>
+    <file name="001-tool.png" crc="443126559" seo="true" ref="9class:voramnet1">
+      <caption webpage="voramnet1" alt=""/>
+      <caption webpage="voramnet1" alt=""/>
+      <caption webpage="9class" alt=""/>
+    </file>
+    <file name="voramnet1-favicon.ico" crc="31782159" ref="voramnet1"/>
+    <file name="градиент2.png" crc="171421195" seo="true" ref="voramnet1">
+      <caption webpage="voramnet1" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="397410052" seo="true" mt="1539539059093" redirect="true"/>
+  <file name="9class.html" crc="4234208389" seo="true" mt="1539633162324" redirect="true"/>
+  <file name="voramnet1.html" crc="3783469558" seo="true" mt="1539538638928" redirect="true"/>
+</manifest>
